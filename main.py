@@ -1,2 +1,2 @@
 print("Here is my cool project!")
-print("Behold its majesty.")
+print("My cool project is super heckin rad.")
